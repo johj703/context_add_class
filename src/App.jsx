@@ -1,4 +1,4 @@
-import React, { createContext, useState } from "react";
+import { createContext, useState } from "react";
 import InputArea from "./components/InputArea";
 import ListArea from "./components/ListArea";
 
